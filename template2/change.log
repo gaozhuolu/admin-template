@@ -1,0 +1,19 @@
+`1.1`
+
+- New **Laravel 5** project
+- New **Dashboard V2** design
+- New color theme (default)
+- Added Vector Maps
+- Added Bower for dependency management
+- Added jQuerySteps (replaces bootstrap-wizard)
+- Added live browser preview to gulp (browserSync)
+- Fixed minor styles issues
+- Fixed minor mobile issues
+- Updated to Bootstrap 3.3.6
+- Updated responsive sparklines
+- Updated all vendor dependencies
+- Updated documentation
+
+`1.0`
+
+- Initial release
